@@ -1,4 +1,4 @@
-# PicoW-PWi-Fi
+# PicoW - PracticaWi-Fi
 
 **Código:**
 
